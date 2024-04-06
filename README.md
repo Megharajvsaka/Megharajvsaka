@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=megharajvsaka&label=Profile%20views&color=0e75b6&style=flat" alt="megharajvsaka" /> </p>
 
-<div>
-   <p>I'm currently working on Network Security</p>
-   <p>I'm currently learning Rust</p>
-   <p>How to reach me <a class="mail" href="mailto:santhoshgowda9542@gmail.com"  text-decoration="none" >santhoshgowda9542@gmail.com</a></p>
-</div>
 <br>
 <br>
 <div>
