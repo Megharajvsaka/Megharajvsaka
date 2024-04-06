@@ -3,7 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=megharajvsaka&label=Profile%20views&color=0e75b6&style=flat" alt="megharajvsaka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=megharajvsaka" alt="megharajvsaka" /></a> </p>
+<div>
+   <p>I'm currently working on Network Security</p>
+   <p>I'm currently learning Rust</p>
+   <p>How to reach me <a class="mail" href="mailto:santhoshgowda9542@gmail.com"  text-decoration="none" >santhoshgowda9542@gmail.com</a></p>
+</div>
+<br>
+<br>
+<div>
+   <img src="/img/Cyber Security Computer IT Tech Software Poster.jpeg" width="330" >
+   <img src="/img/Free Vector _ Hacker activity concept with man illustration.jpeg" width="330">
+</div>
+  <br>
+  <br>
+ <br>
 
 - 🌱 I’m currently learning **react, DSA**
 
