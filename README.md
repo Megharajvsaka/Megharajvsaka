@@ -3,15 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=megharajvsaka&label=Profile%20views&color=0e75b6&style=flat" alt="megharajvsaka" /> </p>
 
-<br>
-<br>
-<div>
-   <img src="/img/Cyber Security Computer IT Tech Software Poster.jpeg" width="330" >
-   <img src="/img/Free Vector _ Hacker activity concept with man illustration.jpeg" width="330">
-</div>
-  <br>
-  <br>
- <br>
+
 
 - 🌱 I’m currently learning **react, DSA**
 
