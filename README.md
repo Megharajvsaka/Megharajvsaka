@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/megharaj saka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="megharaj saka" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/megharaj saka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="megharaj saka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/megharajvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="megharaj saka" height="30" width="40" /></a>
 <a href="https://fb.com/megharaj v saka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="megharaj v saka" height="30" width="40" /></a>
 <a href="https://instagram.com/megharaj_jeeva_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="megharaj_jeeva_s" height="30" width="40" /></a>
 </p>
