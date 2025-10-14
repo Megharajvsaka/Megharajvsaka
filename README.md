@@ -69,8 +69,8 @@
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> 
 </a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> 
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
@@ -96,7 +96,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=megharajvsaka&show_icons=true&locale=en&theme=tokyonight" alt="megharajvsaka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=megharajvsaka&theme=tokyonight" alt="megharajvsaka" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=megharajvsaka&theme=tokyonight" alt="megharajvsaka" /></p>
+
 
 ---
 
